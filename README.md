@@ -15,11 +15,12 @@
 <a href="https://stackoverflow.com/users/26816556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26816556" height="30" width="40" /></a>
 <a href="https://medium.com/@gizemaltnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gizemaltnc" height="30" width="40" /></a>
 </p>
+<p></p>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+>
 
 
