@@ -11,11 +11,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GizemAltinci&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GizemAltinci&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GizemAltinci&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/@goldenestgizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@goldenestgizem" height="30" width="40" /></a>
@@ -24,8 +19,7 @@
 <a href="https://medium.com/@gizemaltnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gizemaltnc" height="30" width="40" /></a>
 </p>
 
-## ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 
 
